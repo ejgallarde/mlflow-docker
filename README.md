@@ -1,7 +1,7 @@
 # Homework 3
 
 # Directory Structure
-- `dockefiles`
+- `dockerfiles`
   - dockerfiles per container defined here
 - `images` - images used for markdown documentation
 - `fastapi_dir` - source directory for fastapi code
